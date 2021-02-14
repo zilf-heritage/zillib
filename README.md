@@ -1,9 +1,5 @@
 # YZIP Parser Library
 
-Imported from https://eblong.com/infocom/sources/zillib.zip.
-
-Matched with https://github.com/zil-legacy/infocom-sources/tree/master/development/interlogic/zillib.
-
 ## What is this?
 
 This repository contains source code and other files which were, as far as anyone can tell, involved in the original production of the Infocom games Arthur, Journey, Shogun and Zork Zero.
